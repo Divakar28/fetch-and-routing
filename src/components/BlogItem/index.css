@@ -1,0 +1,19 @@
+.imgSize {
+  height: 40vh;
+  width: 35vw;
+  background-size: cover;
+  padding: 15px;
+}
+
+.avatarSize {
+  height: 10vh;
+  width: 5vw;
+  border-radius: 120px;
+  padding: 5px;
+}
+.top {
+  display: flex;
+}
+.bottom {
+  display: flex;
+}

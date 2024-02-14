@@ -1,0 +1,21 @@
+.avatarSize {
+  height: 10vh;
+  width: 5vw;
+  border-radius: 120px;
+  padding: 5px;
+}
+.j {
+  display: flex;
+  padding: 20px;
+}
+.k {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.imgus {
+  padding-left: 25px;
+  height: 50vh;
+  width: 70vw;
+}
